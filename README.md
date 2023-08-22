@@ -1,7 +1,6 @@
-# Welcome to your CDK TypeScript project
+# Aurora Postgres Serverless
 
-You should explore the contents of this project. It demonstrates a CDK app with an instance of a stack (`AuroraPostgresServerlessStack`)
-which contains an Amazon SQS queue that is subscribed to an Amazon SNS topic.
+This is a CDK project that creates an Aurora Postgres Serverless cluster.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
